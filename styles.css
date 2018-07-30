@@ -1,0 +1,60 @@
+body {
+    background-image: url("http://www.modafinilsale.com/data/out/667/228135833-black-and-white-checkerboard-wallpaper.gif")
+}
+
+.buttons {
+    margin-top: 100px;
+    text-align: center;
+}
+
+button {
+    width: 182px;
+    display: inline-block;
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-align: center;
+    font-size: 35px;
+    background-color: #0dbc3e;
+    border: thin solid black;
+    font-family: Helvetica;
+    padding: 5px 25px;
+    margin: 0px 15px;
+    box-shadow: 0px 2px 5px 0px #a9a9a9;
+}
+
+.counter {
+    margin-top: 100px;
+    font-size: 25px;
+    font-family: Helvetica;
+    margin-left: 100px;
+    text-align: center;
+}
+
+.user {
+    padding: 5px;
+    width: 150px;
+    background-color: #0dbc3e;
+    border: thin solid black;
+    box-shadow: 0px 2px 5px 0px #a9a9a9;
+}
+
+.computer {
+    padding: 5px;
+    margin-top: 10px;
+    width: 150px;
+    background-color: #0dbc3e;
+    border: thin solid black;
+    box-shadow: 0px 2px 5px 0px #a9a9a9;
+}
+
+.alert {
+    margin: 100px 30% 0px;
+    padding: 20px 10px;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 25px;
+    background-color: transparent;
+    color: white;
+    text-shadow: -.75px .75px 0px #ff38dd;
+}
